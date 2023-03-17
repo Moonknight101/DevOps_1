@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool: 
- Azure Pipelines
+ my agent
 
 strategy:
   matrix:
